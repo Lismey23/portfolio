@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "title":"Password Generator",
+        "image":"./public/assets/passGen.jpg",
+        "description":"The goal of this project was to create an application that provided a random password to an employer based on criteria they've selected ensuring a strong password that provides greater security to the company.",
+        "deployedLink":"https://lismey23.github.io/JS_PasswordGenerator/."
+        
+    },
+
+    {
+        "id":2,
+        "title":"Work Day Scheduler",
+        "image":"",
+        "description":"A simple daily planner was created to allow a user to save events for each hour of the day. Given started code, by modifying it, the user is able to display the current day at the top of the calendar, and he is presented with time blocks for standard business hours, each time block will be color coded to indicate if is in the past, present or future. When the user enters an event in a time block and clicks the save button, the event will be saved in local storage and in case the page is refreshed the saved event will persist.",
+        "deployedLink":"https://lismey23.github.io/daily-schedule/"
+
+    },
+
+    {
+        "id":3,
+        "title":"Class Roster Generator",
+        "image":"",
+        "description":"This program allows a user to answer a list of questions and when submitted, complete a google form. That form data is then populated into a Google Spreadsheet and then displayed to the end-user as a Bootstrap card element.",
+        "deployedLink":"https://lismey23.github.io/Js_Quiz/. "
+
+    },
+
+    {
+        "id":4,
+        "title":"Active SisHER",
+        "image":"",
+        "description":"COVID-19 has impacted our day-to-day life and mental well-being. We created an app that creates an empowering and mindful space where women can create activity groups such as; rollerblading, running, biking ect. and meet up at local parks.",
+        "deployedLink":"https://safe-cliffs-73161.herokuapp.com/"
+
+    },
+
+    {
+        "id":5,
+        "title":"Professional Readme Generator",
+        "image":"",
+        "description":"his project goal was to create a Professional README file by using a command-line application that dynamically generates it from a user's input using the Inquirer package.",
+        "deployedLink":"https://drive.google.com/file/d/1DBgIFenWMWdJ_V4Qt5T19Pc_uzzU_FhO/view"
+
+    },
+
+    {
+        "id":6,
+        "title":"Team Profile Generator",
+        "image":"This is a Node.js command-line application that generates an HTML webpage containing a software engineering team basic information based on an user input.",
+        "description":"",
+        "deployedLink":"https://github.com/Lismey23/Team-Profile-Generator"
+
+    }
+
+
+]
