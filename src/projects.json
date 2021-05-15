@@ -2,7 +2,7 @@
     {
         "id":1,
         "title":"Password Generator",
-        "image":"./public/assets/passGen.jpg",
+        "image":"",
         "description":"The goal of this project was to create an application that provided a random password to an employer based on criteria they've selected ensuring a strong password that provides greater security to the company.",
         "deployedLink":"https://lismey23.github.io/JS_PasswordGenerator/."
         

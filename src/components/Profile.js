@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePic from '../../public/assets/profilePic.png'
+import profilePic from '../assets/profilePic.png'
 
 function Profile () {
     return (
@@ -14,7 +14,7 @@ function Profile () {
 
             <div className='row'>
                 <div className='col-xs-10'>
-                <img src={profilePic} width="370" height="370"/>
+                <img alt= "Lismey Plasencia" src={profilePic} width="370" height="370"/>
                 <p className='lorem'>Motivated, energetic and reliable Industrial Engineer with a hard-working mentality. Persuasive
            communicator, a team worker and multitask-er with a positive attitude. Industrial Engineer with 3
            years of experience planning, developing and providing solutions quickly and 2 years of focusing on Product Managment and Business Development, ensuring growth QoQ and YoY and profit in all managed product lines, as well as increasing customer breadh in the region.
