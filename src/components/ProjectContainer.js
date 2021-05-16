@@ -6,8 +6,8 @@ import passGen from '../assets/passGen.JPG'
 import scheduler from '../assets/scheduler.JPG'
 import getToKnowU from '../assets/getToKnowU.JPG'
 import ActiveSiHER from '../assets/Homepage.png'
-import ProjectNoImg from '../components/ProjectNoImg'
 import teamProfile from '../assets/team-profile.png'
+import employeeDir from '../assets/application.png'
 
 function ProjectContainer() {
     return (
@@ -43,8 +43,8 @@ function ProjectContainer() {
 
             />
 
-            <ProjectNoImg 
-            image={projects[4].image}
+            <Project 
+            image={employeeDir}
             title={projects[4].title}
             description={projects[4].description}
             deployedLink={projects[4].deployedLink}
