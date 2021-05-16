@@ -86,7 +86,7 @@ function Profile () {
            </div>
        <h6>Languages</h6>
         <li>English</li>
-         <li>Spanish</li>
+         <li className="lang">Spanish</li>
         
        
             </div>
