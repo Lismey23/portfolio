@@ -31,4 +31,7 @@ Please feel free to reach me with additional questions: lismeyplasencia@gmail.co
 GitHub profile: Lismey23
 
 ## GitHub Repo
-<a href="https://github.com/Lismey23/Professional-README-Generator">GitHub Repo</a>
+<a href="https://github.com/Lismey23/portfolio">GitHub Repo</a>
+
+## Deployed Application
+<a href="https://lismey23.github.io/portfolio">Click to see deployed App</a>
