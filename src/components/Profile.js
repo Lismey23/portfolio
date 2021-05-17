@@ -84,9 +84,37 @@ function Profile () {
            <li>AutoCAD</li>
            <li>HTML, Java Script and CSS</li>
            </div>
+
        <h6>Languages</h6>
         <li>English</li>
          <li className="lang">Spanish</li>
+
+         {/* Contact Info */}
+
+         <h7 id="contact">Contact Information</h7>
+     <div class="row">
+       <div class="col-sm">
+     <ul class="contactInfo">Email:  <a href=" lismeyplasencia@gmail.com">lismeyplasencia@gmail.com</a></ul>
+      </div>
+    </div>
+   
+    <div class="row">
+      <div class="col-sm">
+        <ul class="contactInfo">GitHub Page: <a href="https://github.com/Lismey23">https://github.com/Lismey23</a></ul>
+
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-sm">
+        <ul class="contactInfo">LinkedIn Page: <a href="http://linkedin.com/in/lismey-plasencia-8b0a37180"> http://linkedin.com/in/lismey-plasencia-8b0a37180</a></ul>
+        </div>
+        </div>
+
+
+
+         
+
         
        
             </div>
